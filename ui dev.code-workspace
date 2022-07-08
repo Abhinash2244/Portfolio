@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\ui dev"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My web application"
+	}
+}
